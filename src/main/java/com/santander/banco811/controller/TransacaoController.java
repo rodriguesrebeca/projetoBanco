@@ -2,10 +2,8 @@ package com.santander.banco811.controller;
 
 import com.santander.banco811.dto.request.TransacaoRequest;
 import com.santander.banco811.dto.response.TransacaoResponse;
-import com.santander.banco811.model.TipoTransacao;
 import com.santander.banco811.model.Transacao;
 import com.santander.banco811.projections.TransacaoView;
-import com.santander.banco811.repository.TransacaoRepository;
 import com.santander.banco811.service.TransacaoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

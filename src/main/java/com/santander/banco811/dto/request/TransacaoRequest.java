@@ -1,6 +1,5 @@
 package com.santander.banco811.dto.request;
 
-import com.santander.banco811.model.TipoTransacao;
 import lombok.Getter;
 import lombok.Setter;
 
